@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+joblib
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+python-multipart
+shap
+python-dotenv
